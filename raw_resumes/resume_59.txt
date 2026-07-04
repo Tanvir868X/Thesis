@@ -1,0 +1,24 @@
+[Info_Start] নামঃ আনিসুর রহমান
+ইমেইলঃ [ইমেইল_গোপন]
+মোবাইলঃ ০১XXXXXXXXX
+ঠিকানাঃ ঠিকানা_গোপন [Info_End]
+
+লক্ষ্যঃ [section] একজন দক্ষ এবং স্বতঃস্ফূর্ত সফটওয়্যার ইঞ্জিনিয়ার হিসেবে নিরাপদ সফটওয়্যার তৈরি, রক্ষণাবেক্ষন এবং মানোন্নয়ন। [Objective]
+
+পেশাগত অভিজ্ঞতাঃ [section]
+সফটওয়্যার ডেভেলপার, সিকিউরটেক, ২০২৩ – বর্তমান [Experience]
+জাভা এবং স্প্রিংবুট ব্যবহার করে অ্যাপ ডেভেলপমেন্ট [Experience]
+অথেন্টিকেশন এবং সিকিউরিটি ফিচার ইমপ্লিমেন্টেশন [Experience]
+রেস্ট এপিআই ডেভেলপমেন্ট [Experience]
+
+শিক্ষাগত যোগ্যতাঃ [section]
+বিএসসি ইন সিএসই [Education]
+গাজীপুর প্রযুক্তি বিশ্ববিদ্যালয় [Education]
+সিজিপিএঃ “৩.৬৫/৪.০০” [Education]
+
+দক্ষতাঃ[section]
+Java [Skill]
+Spring Framework [Skill]
+REST API [Skill]
+Authentication and Authorization [Skill]
+OOP Concepts [Skill]

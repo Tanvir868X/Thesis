@@ -1,0 +1,26 @@
+[Info_Start]  নাম: তাহমিদ রহমান
+ইমেইল: ইমেইল_গোপন
+মোবাইল: ০১XXXXXXXXX
+ঠিকানা: ঠিকানা_গোপন[Info_End]
+
+লক্ষ্য: [section]।একটি ক্রিয়েটিভ টিমে ফ্রন্ট-এন্ড ডেভেলপার হিসেবে যোগদান করা, যেখানে আমি React.js এবং modern JavaScript এর মাধ্যমে responsive, performant এবং user-friendly ওয়েব অ্যাপ্লিকেশন তৈরি করতে পারি।[Objective]
+
+পেশাগত অভিজ্ঞতা:[section]।
+ফ্রন্ট-এন্ড সফটওয়্যার ডেভেলপার ।[Expericence] ওয়েব ক্রাফ্ট লিমিটেড আগস্ট ২০২০ - বর্তমান।[Expericence]
+React.js এবং Next.js ব্যবহার করে single-page applications (SPA) ডেভেলপ করা।[Expericence]
+RESTful API এর সাথে integration করা।[Expericence]
+UI/UX ডিজাইন অনুযায়ী pixel-perfect এবং responsive components তৈরি করা।[Expericence]
+
+ওয়েব ডেভেলপমেন্ট ইন্টার্ন ।[Expericence] ডিজিটাল আইডিয়া এপ্রিল ২০২০ - জুলাই ২০২০।[Expericence]
+HTML, CSS, এবং JavaScript ব্যবহার করে কোম্পানির ওয়েবসাইটের কিছু section রিডিজাইন করা।[Expericence]
+
+শিক্ষাগত যোগ্যতা:[section]।
+বি.এসসি. ইন কম্পিউটার সায়েন্স অ্যান্ড ইঞ্জিনিয়ারিং।[Education]
+ব্র্যাক ইউনিভার্সিটি।[Education]
+সিজিপিএ: "৩.৪৫/৪.০০" (২০১৬-২০২০)।[Education]
+
+দক্ষতা:[section]।
+ভাষা: JavaScript (ES6+), TypeScript, HTML5, CSS3।[Skill]
+ফ্রেমওয়ার্ক/লাইব্রেরি: React.js, Next.js, Vue.js।[Skill]
+স্টেট ম্যানেজমেন্ট: Redux, Context API।[Skill]
+টুলস: Git, Webpack, npm/yarn।[Skill]

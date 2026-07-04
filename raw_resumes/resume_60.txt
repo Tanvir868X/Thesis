@@ -1,0 +1,25 @@
+[Info_Start] নামঃ মাহজেবিন তাসনিম
+ইমেইলঃ [ইমেইল_গোপন]
+মোবাইলঃ ০১XXXXXXXXX
+ঠিকানাঃ ঠিকানা_গোপন [Info_End]
+
+লক্ষ্যঃ [section] ডেটা অ্যানালিস্ট হিসেবে মেশিন লার্নিং ভিত্তিক ইনসাইট তৈরি করা। [Objective]
+
+পেশাগত অভিজ্ঞতাঃ [section]
+ডেটা অ্যানালিস্ট, ডেটা ল্যাব, ২০২১ – বর্তমান [Experience]
+Machine Learning মডেল তৈরি (basic) [Experience]
+Data preprocessing ও feature selection [Experience]
+Python দিয়ে ডেটা অ্যানালাইসিস [Experience]
+রিপোর্টিং ও ফলাফল উপস্থাপন [Experience]
+
+শিক্ষাগত যোগ্যতাঃ[section]
+বিএসসি ইন ইইই [Education]
+মিলিটারি ইন্সটিটিউট অব সাইন্স এন্ড টেকনোলোজী [Education]
+সিজিপিএঃ “৩.৮০/৪.০০” [Education]
+
+দক্ষতাঃ [section]
+Python [Skill]
+Machine Learning (Scikit-learn) [Skill]
+Excel [Skill]
+SQL [Skill]
+

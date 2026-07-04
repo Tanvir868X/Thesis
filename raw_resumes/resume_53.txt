@@ -1,0 +1,24 @@
+[Info_Start] নামঃ রাকিবুল ইসলাম 
+ইমেইলঃ [ইমেইল_গোপন]
+মোবাইলঃ ০১XXXXXXXXX
+ঠিকানাঃ ঠিকানা_গোপন [Info_End]
+
+লক্ষ্যঃ [section] একজন ব্যাকএন্ড সফটওয়্যার ইঞ্জিনিয়ার হিসেবে কাজ করার মাধ্যমে নির্ভরযোগ্য সার্ভার সিস্টেম ডেভেলপ করা এবং মানোন্নয়ন করা। [Objective]
+
+পেশাগত অভিজ্ঞতাঃ [section]
+ব্যাকএন্ড ডেভেলপার, স্যামসাং বাংলাদেশ, ২০২১-বর্তমান [Expericence]
+Node.js ও Express ব্যবহার করে সার্ভার-সাইড অ্যাপ তৈরি [Expericence]
+MongoDB দিয়ে ডাটাবেজ ম্যানেজমেন্ট [Expericence]
+
+শিক্ষাগত যোগ্যতাঃ [section]
+বিএসসি ইন সিএসই [Education]
+চট্টগ্রাম বিশ্ববিদ্যালয় [Education]
+সিজিপিএঃ “৩.৫০/ ৪.০০” [Education]
+
+দক্ষতাঃ [section]
+Python [Skill]
+PHP [Skill]
+JAVA [Skill]
+Node.js [Skill]
+Express [Skill]
+MongoDB [Skill]

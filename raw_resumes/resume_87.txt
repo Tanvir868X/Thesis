@@ -1,0 +1,30 @@
+[Info_Start]নাম: রাফি উদ্দিন
+ইমেইল: ইমেইল_গোপন
+মোবাইল: ০১XXXXXXXXX
+ঠিকানা: ঠিকানা_গোপন[Info_End]
+
+লক্ষ্য:[section]। একটি ফার্মাসিউটিক্যাল বা কেমিক্যাল ইন্ডাস্ট্রিতে কেমিস্ট হিসেবে কাজ করা, যেখানে আমি কেমিক্যাল অ্যানালিসিস, কোয়ালিটি কন্ট্রোল এবং রিসার্চ অ্যান্ড ডেভেলপমেন্টের মাধ্যমে অবদান রাখতে পারি।  [Objective]
+
+পেশাগত অভিজ্ঞতা:[section]।
+কেমিস্ট |[Expericence] ফার্মা ল্যাবস লিমিটেড | নভেম্বর ২০২০ - বর্তমান[Expericence]
+HPLC, GC, এবং UV Spectrophotometer ব্যবহার করে raw materials এবং finished products এর quality testing করা।[Expericence]
+standard operating procedures (SOPs) অনুযায়ী laboratory analysis performed করা।[Expericence]
+laboratory equipment calibration এবং maintenance করা।[Expericence]
+
+ল্যাব টেকনিশিয়ান |[Expericence] কেমিক্যাল সলিউশনস | জুলাই ২০২০ - অক্টোবর ২০২০
+sample preparation এবং routine lab tests এ সহায়তা করা।
+
+শিক্ষাগত যোগ্যতা: [section]।
+এম.এসসি. ইন অ্যানালিটিক্যাল কেমিস্ট্রি [Education]
+ঢাকা বিশ্ববিদ্যালয় [Education]
+সিজিপিএ: ৩.৬৫/৪.০০ (২০১৮-২০২০)[Education]
+
+বি.এসসি. (অনার্স) ইন কেমিস্ট্রি[Education]
+ঢাকা কলেজ[Education]
+সিজিপিএ: ৩.৪০/৪.০০ (২০১৪-২০১৮)[Education]
+
+দক্ষতা:[section]।
+অ্যানালিটিক্যাল টেকনিক (HPLC, GC, UV-Vis) [Skill]
+কোয়ালিটি কন্ট্রোল/অ্যাসুরেন্স[Skill]
+গুড ল্যাবরেটরি প্র্যাকটিস (GLP)[Skill]
+ল্যাবরেটরি ইনফরমেশন ম্যানেজমেন্ট সিস্টেম (LIMS)[Skill]

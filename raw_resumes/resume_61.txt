@@ -1,0 +1,21 @@
+[Info_Start] নামঃ রাশেদ খান
+ইমেইলঃ [ইমেইল_গোপন]
+মোবাইলঃ০১XXXXXXXXX
+ঠিকানাঃ ঠিকানা_গোপন[Info_End]
+
+লক্ষ্য: [section] ব্যাকএন্ড সফটওয়্যার ইঞ্জিনিয়ার হিসেবে ডাটাবেজ সিস্টেম উন্নত করা। [Objective]
+
+পেশাগত অভিজ্ঞতাঃ [section]
+ফুলস্ট্যাক ডেভেলপার, ডিএসআই, ২০২৩ – ২০২৫[Experience]
+ডেটাবেজ ডিজাইন ও কুয়েরি মানোন্নয়ন [Experience]
+PostgreSQL, MySQL নিয়ে কাজ [Experience]
+
+শিক্ষাগত যোগ্যতাঃ [section]
+বিএসসি ইন আইটি [Education]
+আহসানউল্লাহ ইন্সটিটিউট অব সাইন্স এন্ড টেকনোলোজী [Education]
+সিজিপিএঃ “৩.৫০/৪.০০” [Education]
+
+দক্ষতাঃ[section]
+MySQL [Skill]
+PostgreSQL [Skill]
+API [Skill]
