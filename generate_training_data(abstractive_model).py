@@ -19,7 +19,7 @@ import requests
 import pandas as pd
 
 # ─── CONFIG ──────────────────────────────────────────────────────────────────
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = "put your api key"
 MODEL              = "openai/gpt-oss-120b:free"   # free tier
 RAW_FOLDER         = "raw_resumes"
 OUTPUT_CSV         = "resume_summarization_dataset.csv"
